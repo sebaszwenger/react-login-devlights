@@ -1,0 +1,17 @@
+.LoginSuccsessTitle {
+  font-weight: bold;
+  font-size: 25px;
+  color: #2148c0;
+  margin-bottom: 30px;
+}
+
+.LoginMailUser {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.LoginTypeUser {
+  text-transform: capitalize;
+  font-size: 18px;
+  padding-bottom: 40px;
+}
