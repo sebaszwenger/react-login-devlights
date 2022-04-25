@@ -8,7 +8,7 @@ html {
 
 .container {
   text-align: center;
-  width: 85%;
+  max-width: 85%;
   margin: 0 auto;
 }
 
@@ -20,7 +20,7 @@ h1 {
 }
 
 .form-container {
-  width: 927px;
+  max-width: 927px;
   margin: 0 auto;
   background-color: #fff;
   border-radius: 10px;

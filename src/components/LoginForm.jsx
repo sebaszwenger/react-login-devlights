@@ -76,7 +76,7 @@ function LoginForm({ setIsLogged, setDataUser, setRegister }) {
   }
 
   return (
-    <form>
+    <form className="form">
       <legend>Please fill in your unique login details below</legend>
       {error && <Error message={message} />}
       <div>
